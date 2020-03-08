@@ -1,0 +1,8 @@
+##fileformat=VCFv4.1
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	test
+chr1	12345	.	A	T	.	.	.	.	.
+chr1	122134	.	C	T	.	.	.	.	.
+chr2	35264	.	TA	T	.	.	.	.	.
+chr10	627481	.	G	GA	.	.	.	.	.
+chrX	12345	.	T	A	.	.	.	.	.
+chrY	28371	.	A	C	.	.	.	.	.
